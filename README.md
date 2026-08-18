@@ -1,2 +1,12 @@
-# day-4-sample
-learning git hub essentials
+#example:club guide
+####photography club guide
+###about the club 
+<p>the photography club helps members learn photography techniques,share ideas,and organize photo walks</p>
+<hr>
+<b>membership</b>
+<p align="center">
+-open to all members
+-attend at least one meeting
+-follow the clubs's code of conduct 
+</p>
+</hr>
