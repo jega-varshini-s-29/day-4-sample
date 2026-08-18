@@ -5,8 +5,8 @@
 <hr>
 <b>membership</b>
 <p align="center">
--open to all members
--attend at least one meeting
--follow the clubs's code of conduct 
+open to all members
+attend at least one meeting
+follow the clubs's code of conduct 
 </p>
 </hr>
